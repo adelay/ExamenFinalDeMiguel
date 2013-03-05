@@ -1,7 +1,7 @@
 
 /**
- * Autor Miguel iniesta
- * Colaborador Pablixo
+ * Autor Miguel iniesta Garcia
+ * 
  */
 public class persona {
 	
