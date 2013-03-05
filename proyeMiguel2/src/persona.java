@@ -13,6 +13,10 @@ public class persona {
 	/**
 	 * metodo que devuelve el hobbie
 	 */
+	public String getHobbie()
+	{
+		return hobbie;
+	}
 	
 	/**
 	 * devuelve el nombre
