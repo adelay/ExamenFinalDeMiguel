@@ -8,6 +8,7 @@ public class persona {
 	String nombre;
 	String apellido;
 	int edad;
+	String hobbie;
 	
 	/**
 	 * devuelve el nombre
