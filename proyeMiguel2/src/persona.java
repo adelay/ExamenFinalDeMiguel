@@ -2,6 +2,7 @@
 /**
  * Autor Miguel iniesta
  * Colaborador Pablixo
+ * colaborador mario
  */
 public class persona {
 	
