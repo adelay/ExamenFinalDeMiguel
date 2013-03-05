@@ -1,7 +1,13 @@
 
 /**
+<<<<<<< HEAD
  * Autor Miguel iniesta Garcia
  * 
+=======
+ * Autor Miguel iniesta
+ * Colaborador Pablixo
+ * colaborador mario gil
+>>>>>>> refs/heads/master
  */
 public class persona {
 	
